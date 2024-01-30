@@ -1,0 +1,15 @@
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\CriptografiaNavio.exe
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\CriptografiaNavio.deps.json
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\CriptografiaNavio.runtimeconfig.json
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\CriptografiaNavio.dll
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\CriptografiaNavio.pdb
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.csproj.AssemblyReference.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.AssemblyInfoInputs.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.AssemblyInfo.cs
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.csproj.CoreCompileInputs.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.dll
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\refint\CriptografiaNavio.dll
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.pdb
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\CriptografiaNavio.genruntimeconfig.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ref\CriptografiaNavio.dll

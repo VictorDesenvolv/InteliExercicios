@@ -1,12 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 
 using System;
 using System.Text;
+using System.Collections;
+using System.Linq;
+using System.Collections.Generic;
 
-string byteSegment = "10010110 11110111 01010110 00000001 00010111 00100110 01010111 00000001 00010111 01110110 01010111 00110110 11110111 11010111 01010111 00000011";
+class HelloWorld
+{
+    static void Main()
+    {
+        string byteSegment = "10010110 11110111 01010110 00000001 00010111 00100110 01010111 00000001 00010111 01110110 01010111 00110110 11110111 11010111 01010111 00000011";
 
 
-Console.WriteLine(byteSegment.DescriptografarBits());
+        Console.WriteLine(byteSegment.DescriptografarBits());
+    }
+}
 
 
 public static class StringExtensions

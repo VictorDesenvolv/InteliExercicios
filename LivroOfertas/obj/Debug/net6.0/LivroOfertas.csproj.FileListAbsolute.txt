@@ -1,0 +1,15 @@
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\bin\Debug\net6.0\LivroOfertas.exe
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\bin\Debug\net6.0\LivroOfertas.deps.json
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\bin\Debug\net6.0\LivroOfertas.runtimeconfig.json
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\bin\Debug\net6.0\LivroOfertas.dll
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\bin\Debug\net6.0\LivroOfertas.pdb
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.csproj.AssemblyReference.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.AssemblyInfoInputs.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.AssemblyInfo.cs
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.csproj.CoreCompileInputs.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.dll
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\refint\LivroOfertas.dll
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.pdb
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\LivroOfertas.genruntimeconfig.cache
+C:\Users\vi10-\source\repos\ConsoleApp5\ConsoleApp2\obj\Debug\net6.0\ref\LivroOfertas.dll

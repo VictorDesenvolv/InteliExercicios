@@ -1,14 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 using System.Collections;
-using System.ComponentModel.DataAnnotations.Schema;
+using System;
+using System.Linq;
+using System.Collections.Generic;
 
+class HelloWorld
+{
+    static void Main()
+    {
 
+        string input = "12\r\n1,0,15.4,50\r\n2,0,15.5,50\r\n2,2,0,0\r\n2,0,15.4,10\r\n3,0,15.9,30\r\n3,1,0,20\r\n4,0,16.50,200\r\n5,0,17.00,100\r\n5,0,16.59,20\r\n6,2,0,0\r\n1,2,0,0\r\n2,1,15.6,0";
 
-string input = "12\r\n1,0,15.4,50\r\n2,0,15.5,50\r\n2,2,0,0\r\n2,0,15.4,10\r\n3,0,15.9,30\r\n3,1,0,20\r\n4,0,16.50,200\r\n5,0,17.00,100\r\n5,0,16.59,20\r\n6,2,0,0\r\n1,2,0,0\r\n2,1,15.6,0";
+        var item = LivroServices.ProcessarHistoricoLivros(input);
 
-var item = LivroServices.ProcessarHistoricoLivros(input);
-
-Console.WriteLine(item);
+        Console.WriteLine(item);
+    }
+}
 
 static class LivroServices
 {
@@ -32,7 +39,7 @@ static class LivroServices
             {
                 Posicao = int.Parse(item[0]),
                 Acao = int.Parse(item[1]),
-                Valores = double.Parse(item[2].Replace(".",",")),
+                Valores = double.Parse(item[2].Replace(".", ",")),
                 Quantidade = int.Parse(item[3])
             };
 
@@ -44,9 +51,9 @@ static class LivroServices
 
         string mensagemRetorno = "";
 
-        foreach(var item in Livros)
+        foreach (var item in Livros)
         {
-            mensagemRetorno += $"{item.Posicao},{item.Valores.ToString().Replace(",",".")},{item.Quantidade}\r\n";
+            mensagemRetorno += $"{item.Posicao},{item.Valores.ToString().Replace(",", ".")},{item.Quantidade}\r\n";
         }
 
         return mensagemRetorno;
@@ -102,7 +109,8 @@ static class LivroServices
 }
 
 
-class Livro{
+class Livro
+{
     public int Posicao { get; set; }
     public int Acao { get; set; }
     public double Valores { get; set; }
